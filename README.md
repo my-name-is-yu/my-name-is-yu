@@ -16,10 +16,6 @@ I care about agent autonomy, persistence, and context: systems that stay active,
 - Building systems that are useful in real life, not just impressive in demos
 - Bridging engineering execution with product thinking and entrepreneurial ambition
 
-## Selected Work
-
-- [PulSeed](https://github.com/my-name-is-yu/PulSeed) - An open-source AI agent system exploring long-running goal execution and persistent workflows.
-- [impact-tokyo](https://github.com/my-name-is-yu/impact-tokyo) - MimamoAI, an AI-powered caregiving assistant for family caregivers in Japan.
 
 ## Background
 
