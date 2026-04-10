@@ -1,27 +1,39 @@
-# Yu
+# Hi, I'm Yu
 
-Building AI agent systems at the intersection of engineering, product, and entrepreneurship.
+Tokyo | Open-source builder | AI agents, product, and entrepreneurship
 
-## About
+> Working toward a world where always-on resident agents are practical, not aspirational.
 
-I am building [PulSeed](https://github.com/my-name-is-yu/PulSeed), an open-source project aimed at making always-on resident agents practical.
+## What I'm Building
 
-I care about agent autonomy, persistence, and context: systems that can stay active, retain continuity, and act with more initiative in real workflows.
+I'm building [PulSeed](https://github.com/my-name-is-yu/PulSeed), an open-source AI agent system for long-running goal execution.
+
+I care about agent autonomy, persistence, and context: systems that stay active, retain continuity, and keep moving work forward in real workflows.
+
+## Current Focus
+
+- Turning `PulSeed` into a practical OSS foundation for resident agents
+- Building systems that are useful in real life, not just impressive in demos
+- Bridging engineering execution with product thinking and entrepreneurial ambition
+
+## Selected Work
+
+- [PulSeed](https://github.com/my-name-is-yu/PulSeed) - An open-source AI agent system exploring long-running goal execution and persistent workflows.
+- [impact-tokyo](https://github.com/my-name-is-yu/impact-tokyo) - MimamoAI, an AI-powered caregiving assistant for family caregivers in Japan.
 
 ## Background
 
 - Engineer on real products at 3 companies
 - Selected for J-StarX UK 2026
 - Studied entrepreneurship at Oxford Saïd Business School in February
-- Placed in 3 hackathons and 1 business contest, with 2 first-place finishes
+- Placed in 3 hackathons and 1 business contest, including 2 first-place finishes
 
-## Current Focus
+## Principles
 
-- Developing `PulSeed` as an OSS foundation for persistent AI agents
-- Bridging engineering execution with product thinking
-- Turning ambitious ideas into reliable systems
+- Build things that survive real use
+- Prefer persistent systems over one-shot demos
+- Keep the surface simple, even when the internals are not
 
-## Links
+## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/yu-yoshi/)
-- [PulSeed](https://github.com/my-name-is-yu/PulSeed)
