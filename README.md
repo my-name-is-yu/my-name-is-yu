@@ -20,8 +20,7 @@ I care about agent autonomy, persistence, and context: systems that stay active,
 ## Background
 
 - Engineer on real products at 3 companies
-- Selected for J-StarX UK 2026
-- Studied entrepreneurship at Oxford Saïd Business School in February
+- Selected for J-StarX UK 2026 and studied entrepreneurship at Oxford Saïd Business School in February
 - Placed in 3 hackathons and 1 business contest, including 2 first-place finishes
 
 ## Principles
