@@ -10,13 +10,6 @@ I'm building [PulSeed](https://github.com/my-name-is-yu/PulSeed), an open-source
 
 I care about agent autonomy, persistence, and context: systems that stay active, retain continuity, and keep moving work forward in real workflows.
 
-## Current Focus
-
-- Turning `PulSeed` into a practical OSS foundation for resident agents
-- Building systems that are useful in real life, not just impressive in demos
-- Bridging engineering execution with product thinking and entrepreneurial ambition
-
-
 ## Background
 
 - Engineer on real products at 3 companies
