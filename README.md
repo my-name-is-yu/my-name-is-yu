@@ -19,4 +19,4 @@ I care about agent autonomy, persistence, and context: systems that stay active,
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/yu-yoshi/)
-- [X/Twitter][https://x.com/yuyoshimuta]
+- [X/Twitter](https://x.com/yuyoshimuta)
