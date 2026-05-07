@@ -16,12 +16,7 @@ I care about agent autonomy, persistence, and context: systems that stay active,
 - Selected for J-StarX UK 2026 and studied entrepreneurship at Oxford Saïd Business School in February
 - Placed in 3 hackathons and 1 business contest, including 2 first-place finishes
 
-## Principles
-
-- Build things that survive real use
-- Prefer persistent systems over one-shot demos
-- Keep the surface simple, even when the internals are not
-
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/yu-yoshi/)
+- [X/Twitter][https://x.com/yuyoshimuta]
